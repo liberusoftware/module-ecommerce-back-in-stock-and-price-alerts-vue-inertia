@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-back-in-stock-and-price-alerts-vue-inertia",
+  "capabilityKey": "planned:ecommerce:back-in-stock-and-price-alerts",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-ecommerce-back-in-stock-and-price-alerts-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/ecommerce/nextjs/back-in-stock-and-price-alerts.md",
+  "presentationPlan": "projects/ecommerce/vue/back-in-stock-and-price-alerts.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
